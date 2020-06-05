@@ -28,7 +28,7 @@ namespace RandomGenerator
 
         public static string Tile3 { get; private set; }
 
-        private static string TileMeaning = @"..\..\..\..\..\MyAppC#\MahjongDivinationApp\MahjongOracle.txt";
+        private static string TileMeaning = @"..\..\..\..\..\..\MahjongDivinationApp\MahjongOracle.txt";
 
 
         private static int CalNumber()
